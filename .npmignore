@@ -1,0 +1,11 @@
+src/
+dist/
+dist-obfuscated/
+webpack.config.js
+tsconfig.json
+
+# Editor-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
